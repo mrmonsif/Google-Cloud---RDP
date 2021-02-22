@@ -1,6 +1,9 @@
 # RDP
 Its just a copy
-----------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+
+
+
 i)   - visit https://colab.research.google.com/
 
 ii)  - Create New note book in file menu
@@ -19,10 +22,10 @@ iv) - run cell
 
 
 
-
-
 ----------------------------------------------------------------------------------------------------------------------------------------
 /* if error occured copy the original git link repace it  */
 
-
 Original - https://raw.githubusercontent.com/alok676875/RDP/main/RDP.sh
+
+----------------------------------------------------------------------------------------------------------------------------------------
+You can't install any apps after connected rdp in colab so if you want to install any applications just copy this/original respository into new and edit rdp.sh file 
