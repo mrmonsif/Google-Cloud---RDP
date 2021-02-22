@@ -12,7 +12,9 @@ iii - copy and paste the below code
 ! chmod +x RDP.sh
 
 ! ./RDP.sh  
-/* or copy the original git link repace it  */
+
+
+/* if error occured copy the original git link repace it  */
 
 
 
