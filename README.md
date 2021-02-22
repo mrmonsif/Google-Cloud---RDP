@@ -2,7 +2,9 @@
 Its just a copy
 ----------------------------------------------------------------------------------------------------------
 i   - visit https://colab.research.google.com/
+
 ii  - Create New note book in file menu
+
 iii - copy and paste the below code
 
 ! wget https://raw.githubusercontent.com/TeAMpIRaTEZ-IN/RDP/main/RDP.sh &> /dev/null
