@@ -28,4 +28,6 @@ iv) - run cell
 Original - https://raw.githubusercontent.com/alok676875/RDP/main/RDP.sh
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-You can't install any apps after connected rdp in colab so if you want to install any applications just copy this/original respository into new and open/edit rdp.sh file locate line20 -23 mention the application you wat to install(termial cmd code) 
+You can't install any apps after connected rdp in colab so if you want to install any applications just copy this/original respository into new and open/edit rdp.sh file locate line20 -23 mention the application you wat to install(terminal cmd code) 
+i wanted qbittorrent(for seeding) so i create this respo
+
