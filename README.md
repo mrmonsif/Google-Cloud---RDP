@@ -8,7 +8,7 @@ iii - copy and paste the below code
 ! wget https://raw.githubusercontent.com/TeAMpIRaTEZ-IN/RDP/main/RDP.sh &> /dev/null
 ! chmod +x RDP.sh
 ! ./RDP.sh  
-// or copy the original git link repace it 
+// or copy the original git link repace it  
 
 
 
