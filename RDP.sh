@@ -21,6 +21,7 @@ sudo apt install nautilus nano -y
 sudo apt -y install obs-studio
 sudo apt -y install firefox
 sudo apt -y install qbittorrent
+sudo update-alternatives --config x-terminal-emulator
 sudo adduser ALOK chrome-remote-desktop
 } &> /dev/null &&
 printf "\nSetup Completed " >&2 ||
