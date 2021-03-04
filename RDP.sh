@@ -1,3 +1,4 @@
+#! /bin/bash
 n=0
 until [ "$n" -ge 10000 ]
 do
